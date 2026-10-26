@@ -22,7 +22,7 @@ AI 目前来说可以是非常非常的火热！但凡是个程序员都不好�
 
 有时用户想了解相关的购票和退票规则，如果自己在系统中搜索的话，需要一点点仔细的查询，这样会花费很长的时间。通过 AI 模型，用户可以直接询问想要了解的规则，AI 模型就会根据已经制定好的规则内容根据用户的问题来将对应的内容告诉给用户。
 
-- **TicketMind 项目详细讲解：** [👉 点击查看讲解](https://javaup.chat/damai-ai/overview/project-intro)
+- **TicketMind 项目详细讲解：** [👉 点击查看讲解](https://github.com/AlanSmithDev)
 
 
 
@@ -98,19 +98,19 @@ TopTicket 项目是用来应对高并发产生的各种问题，设计各种实�
 
 TopTicket 项目代码地址： [👉 点击即可跳转](https://gitee.com/java-up-up/damai)
 
-TopTicket 项目详细介绍： [👉 点击即可跳转](https://javaup.chat/damai/overview/project-intro)
+TopTicket 项目详细介绍： [👉 点击即可跳转](https://github.com/AlanSmithDev)
 
 # 项目流程
 
 TicketMind 是根据官方正式版的文档进行搭建的，将 **每一步搭建**、**每一步执行**、**每一步踩坑** 都进行了总结。如果公司需要的话，小伙伴可以直接拿这套架构用到自己的项目上。
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E6%9E%B6%E6%9E%84/%E5%A4%A7%E9%BA%A6AI%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![](https://github.com/AlanSmithDev)
 
 # 项目功能
 
 此项目具有两个角色：**TicketMind 贴心助手**、**TicketMind 规则助手**、**TicketMind 运维助手**，也就是说具有两个业务功能
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E4%B8%BB%E9%A1%B5%E6%98%BE%E7%A4%BA.png)
+![](https://github.com/AlanSmithDev)
 
 ## TicketMind 贴心助手
 
@@ -123,25 +123,25 @@ TicketMind 是根据官方正式版的文档进行搭建的，将 **每一步搭
 
 ### 询问 我在北京，推荐有哪些演唱会
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%AF%A2%E9%97%AE%20%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC%EF%BC%8C%E6%8E%A8%E8%8D%90%E6%9C%89%E5%93%AA%E4%BA%9B%E6%BC%94%E5%94%B1%E4%BC%9A.gif)
+![](https://github.com/AlanSmithDev)
 
 
 
 ### 询问 详细介绍周杰伦演唱会
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%AF%A2%E9%97%AE%20%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 询问 准备购票
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%AF%A2%E9%97%AE%20%E5%87%86%E5%A4%87%E8%B4%AD%E7%A5%A8.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 输入相应的购票信息
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%BE%93%E5%85%A5%E7%9B%B8%E5%BA%94%E7%9A%84%E8%B4%AD%E7%A5%A8%E4%BF%A1%E6%81%AF.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 自动地生成订单
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%87%AA%E5%8A%A8%E5%9C%B0%E7%94%9F%E6%88%90%E8%AE%A2%E5%8D%95.gif)
+![](https://github.com/AlanSmithDev)
 
 ## TicketMind 规则助手
 
@@ -156,11 +156,11 @@ TicketMind 是根据官方正式版的文档进行搭建的，将 **每一步搭
 
 ### 询问 具体的退票政策
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%A7%84%E5%88%99%E5%8A%A9%E6%89%8B/%E5%85%B7%E4%BD%93%E7%9A%84%E9%80%80%E7%A5%A8%E6%94%BF%E7%AD%96.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 询问 儿童票订购的相关问题
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%A7%84%E5%88%99%E5%8A%A9%E6%89%8B/%E5%84%BF%E7%AB%A5%E7%A5%A8%E8%AE%A2%E8%B4%AD%E7%9A%84%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.gif)
+![](https://github.com/AlanSmithDev)
 
 ## TicketMind 运维助手
 当项目出现问题时，可以直接询问运维助手日志错误的内容，运维助手会帮你去日志系统中查询对应的日志内容，并且会追踪整个请求的链路，并且给出相应的解决方案。
@@ -174,35 +174,35 @@ TicketMind 是根据官方正式版的文档进行搭建的，将 **每一步搭
 
 ### 系统中有哪些微服务
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BE%AE%E6%9C%8D%E5%8A%A1.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 询问“用户手机号不存在”的错误日志内容
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E8%AF%A2%E9%97%AE%E7%94%A8%E6%88%B7%E6%89%8B%E6%9C%BA%E5%8F%B7%E4%B8%8D%E5%AD%98%E5%9C%A8.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 根据这个错误所在的traceId进行完整的链路追踪
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/%E6%A0%B9%E6%8D%AE%E8%BF%99%E4%B8%AA%E9%94%99%E8%AF%AF%E6%89%80%E5%9C%A8%E7%9A%84traceId%E8%BF%9B%E8%A1%8C%E5%AE%8C%E6%95%B4%E7%9A%84%E9%93%BE%E8%B7%AF%E8%BF%BD%E8%B8%AA.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 帮我查看order-service的JVM内存使用情况
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/order-service%E7%9A%84JVM%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5.gif)
+![](https://github.com/AlanSmithDev)
 
 ### 帮我查看order-service的运行状态怎么样
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E4%B8%9A%E5%8A%A1/order-service%E7%9A%84%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81%E6%80%8E%E4%B9%88%E6%A0%B7.gif)
+![](https://github.com/AlanSmithDev)
 
 # 架构设计
 
 项目在使用 AI 模型时，有多个模块功能，包括 **Springboot和SpringAI的结合**、**RAG和向量数据库的解释**、**SpringAI操作向量数据库**、**MCP 和 Function Calling 操作数据**、**AI的拦截器 Advisor 的高阶用法** 等等... ...
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E6%9E%B6%E6%9E%84/%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![](https://github.com/AlanSmithDev)
 
 # 业务结构
 
 通过此业务结构图进一步详细的介绍项目中的功能，包括：**核心架构**、**AI模型**、**Advisor**、**RAG**、**基础配置**、**贴心助手**、**规则助手**、**调用方式**、**存储方式**等各个方面，能够对 TicketMind 项目的整体架构和设计有一个清晰的认知
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E6%9E%B6%E6%9E%84/%E9%A1%B9%E7%9B%AE%E4%B8%9A%E5%8A%A1%E7%9A%84%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+![](https://github.com/AlanSmithDev)
 
 # 文档和视频目录
 
@@ -210,4 +210,4 @@ TicketMind 是根据官方正式版的文档进行搭建的，将 **每一步搭
 
 视频会按照文档的讲解顺序 **从0到1** 的完整讲解，保证学习过程中有一个清晰的认知过程
 
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6AI/%E6%9E%B6%E6%9E%84/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3.png)
+![](https://github.com/AlanSmithDev)
